@@ -7,11 +7,11 @@ export default function Home() {
       <Head>
         <title>CodesWere.com - Wear the code</title>
         <meta name="description" content="CodesWere.com - Wear to code" />
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/codeswearcircle.png" />
       </Head>
 
-      <div classNameName="">
-        <img src="/home.jpg"  alt="" />
+      <div className="w[100%]">
+        <img src="/home.jpg" width={'100%'}  alt="" />
       </div>
       <section className="text-gray-600 body-font">
         <div className="container px-5 py-24 mx-auto">
